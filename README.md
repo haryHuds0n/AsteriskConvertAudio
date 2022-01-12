@@ -165,7 +165,7 @@ Project Link: [Asterisk PBX Convert Audio](https://github.com/haryHuds0n/Asteris
 [issues-shield]: https://img.shields.io/github/issues/haryHuds0n/AsteriskConvertAudio.svg?style=for-the-badge
 [issues-url]: https://github.com/haryHuds0n/AsteriskConvertAudio/issues
 [license-shield]: https://img.shields.io/github/license/haryHuds0n/AsteriskConvertAudio.svg?style=for-the-badge
-[license-url]: https://github.com/haryHuds0n/AsteriskConvertAudio/blob/master/LICENSE.txt
+[license-url]: https://github.com/haryHuds0n/AsteriskConvertAudio/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
