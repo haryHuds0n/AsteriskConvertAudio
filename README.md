@@ -156,17 +156,17 @@ Project Link: [Asterisk PBX Convert Audio](https://github.com/haryHuds0n/Asteris
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/haryHuds0n/AsteriskConvertAudio.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/haryHuds0n/AsteriskConvertAudio.svg
 [contributors-url]: https://github.com/haryHuds0n/AsteriskConvertAudio/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/haryHuds0n/AsteriskConvertAudio.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/haryHuds0n/AsteriskConvertAudio.svg
 [forks-url]: https://github.com/haryHuds0n/AsteriskConvertAudio/network/members
-[stars-shield]: https://img.shields.io/github/stars/haryHuds0n/AsteriskConvertAudio.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/haryHuds0n/AsteriskConvertAudio.svg
 [stars-url]: https://github.com/haryHuds0n/AsteriskConvertAudio/stargazers
-[issues-shield]: https://img.shields.io/github/issues/haryHuds0n/AsteriskConvertAudio.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/haryHuds0n/AsteriskConvertAudio.svg
 [issues-url]: https://github.com/haryHuds0n/AsteriskConvertAudio/issues
-[license-shield]: https://img.shields.io/github/license/haryHuds0n/AsteriskConvertAudio.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/haryHuds0n/AsteriskConvertAudio.svg
 [license-url]: https://github.com/haryHuds0n/AsteriskConvertAudio/blob/master/LICENSE.md
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
 [thumbnail-image]: images/wav-to-mp3.png
